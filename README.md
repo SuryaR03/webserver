@@ -61,12 +61,15 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-### server output
-![serveroutput](server_output.png)
+### se![server_output](https://github.com/SuryaR03/webserver/assets/147140237/e4196ed5-c1ef-400b-9d29-653173353eeb)
+rver output
 
 
-### client output
-![serveroutput](client_output.png)
+
+### client 
+o![client_output](https://github.com/SuryaR03/webserver/assets/147140237/1b8eab83-4268-4162-a1bd-8bb04fd19293)
+utput
+
 ## RESULT:
 The program is executed succesfully
 
