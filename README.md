@@ -67,7 +67,8 @@ httpd.serve_forever()
 
 
 ### client output
-![client_output](https://github.com/SuryaR03/webserver/assets/147140237/1b8eab83-4268-4162-a1bd-8bb04fd19293)
+![Screenshot 2023-12-18 132001](https://github.com/SuryaR03/webserver/assets/147140237/017bdcb4-991e-49fc-9074-c953d341d5bd)
+
 
 
 ## RESULT:
